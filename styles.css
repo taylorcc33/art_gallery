@@ -1,3 +1,19 @@
 h1 {
-  color: red;
+  color: darkmagenta;
+}
+
+h4 {
+  color: burlywood;
+}
+
+div.book {
+  margin-bottom: 35px;
+}
+
+div.book:hover {
+  background: pink; /* make this whatever you want */
+}
+
+img {
+  padding: 10px;
 }
